@@ -88,6 +88,17 @@
           "status": "unverified",
           "costs": []
         }
+      ],
+      "highlights": [
+        {
+          "title": "Your Reykjavík base",
+          "photo": "assets/hotel.png",
+          "url": "https://www.centerhotels.com/en/hotel-thingholt-reykjavik-rooms",
+          "credit": "Center Hotels",
+          "caption": "Þingholt by Center Hotels, four nights in two rooms. Illustrative room, unconfirmed booking.",
+          "point": "hotel",
+          "optional": false
+        }
       ]
     },
     {
@@ -147,6 +158,26 @@
           "status": "estimate",
           "costs": []
         }
+      ],
+      "highlights": [
+        {
+          "title": "Hallgrímskirkja",
+          "photo": "assets/hallgrimskirkja.jpg",
+          "url": "https://visitreykjavik.is/service/hallgrimskirkja-church",
+          "credit": "Visit Reykjavík",
+          "caption": "Reykjavík’s landmark church. Tower tickets and access are separate; check current opening hours.",
+          "point": "hall",
+          "optional": false
+        },
+        {
+          "title": "Your Reykjavík base",
+          "photo": "assets/hotel.png",
+          "url": "https://www.centerhotels.com/en/hotel-thingholt-reykjavik-rooms",
+          "credit": "Center Hotels",
+          "caption": "Þingholt by Center Hotels, four nights in two rooms. Illustrative room, unconfirmed booking.",
+          "point": "hotel",
+          "optional": false
+        }
       ]
     },
     {
@@ -188,6 +219,35 @@
           "status": "estimate",
           "costs": []
         }
+      ],
+      "highlights": [
+        {
+          "title": "Þingvellir National Park",
+          "photo": "assets/thingvellir.jpg",
+          "url": "https://www.thingvellir.is/en/",
+          "credit": "Visit Iceland",
+          "caption": "The rift landscape and historic assembly site. Photo illustrates the location, not expected March conditions.",
+          "point": "thing",
+          "optional": false
+        },
+        {
+          "title": "Strokkur & Geysir",
+          "photo": "assets/strokkur.jpg",
+          "url": "https://www.visiticeland.com/article/the-golden-circle/",
+          "credit": "Visit Iceland / image from official Golden Circle guide",
+          "caption": "Watch the active geothermal area from marked paths. Your operator sets the stop length.",
+          "point": "gey",
+          "optional": false
+        },
+        {
+          "title": "Gullfoss",
+          "photo": "assets/gullfoss.jpg",
+          "url": "https://www.visiticeland.com/article/the-golden-circle/",
+          "credit": "Visit Iceland / image from official Golden Circle guide",
+          "caption": "The Golden Circle’s two-tier waterfall. Winter platforms can close when icy.",
+          "point": "gull",
+          "optional": false
+        }
       ]
     },
     {
@@ -228,6 +288,17 @@
           "type": "meal",
           "status": "estimate",
           "costs": []
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Skógafoss",
+          "photo": "assets/skogafoss.jpg",
+          "url": "https://ust.is/english/visiting-iceland/protected-areas/south/skogafoss/",
+          "credit": "Environment Agency of Iceland (Umhverfisstofnun)",
+          "caption": "A South Coast highlight. Keep to open paths; steps and spray can be icy.",
+          "point": "skog",
+          "optional": false
         }
       ]
     },
@@ -272,6 +343,26 @@
             "aurora"
           ]
         }
+      ],
+      "highlights": [
+        {
+          "title": "Hallgrímskirkja",
+          "photo": "assets/hallgrimskirkja.jpg",
+          "url": "https://visitreykjavik.is/service/hallgrimskirkja-church",
+          "credit": "Visit Reykjavík",
+          "caption": "Reykjavík’s landmark church. Tower tickets and access are separate; check current opening hours.",
+          "point": "hall",
+          "optional": false
+        },
+        {
+          "title": "Weather-swap option: Golden Circle",
+          "photo": "assets/thingvellir.jpg",
+          "url": "https://www.thingvellir.is/en/",
+          "credit": "Visit Iceland",
+          "caption": "Only revisit the Golden Circle if moving a cancelled tour to your buffer day; this is not an extra scheduled visit.",
+          "point": "thing",
+          "optional": true
+        }
       ]
     },
     {
@@ -303,6 +394,17 @@
           "type": "flight",
           "status": "unverified",
           "costs": []
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Your Reykjavík base",
+          "photo": "assets/hotel.png",
+          "url": "https://www.centerhotels.com/en/hotel-thingholt-reykjavik-rooms",
+          "credit": "Center Hotels",
+          "caption": "Þingholt by Center Hotels, four nights in two rooms. Illustrative room, unconfirmed booking.",
+          "point": "hotel",
+          "optional": false
         }
       ]
     }
@@ -463,7 +565,8 @@
         1,
         6
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.torontopearson.com/"
     },
     {
       "id": "kef",
@@ -475,7 +578,8 @@
         2,
         6
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.kefairport.com/"
     },
     {
       "id": "hotel",
@@ -490,7 +594,8 @@
         5,
         6
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.centerhotels.com/en/hotel-thingholt-reykjavik-rooms"
     },
     {
       "id": "bsi",
@@ -502,7 +607,8 @@
         2,
         6
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://flybus.is/plan-your-trip/"
     },
     {
       "id": "hall",
@@ -514,7 +620,8 @@
         2,
         5
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://visitreykjavik.is/service/hallgrimskirkja-church"
     },
     {
       "id": "harpa",
@@ -526,7 +633,8 @@
         2,
         5
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.harpa.is/en"
     },
     {
       "id": "sky",
@@ -538,7 +646,8 @@
         2,
         5
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.skylagoon.com/"
     },
     {
       "id": "thing",
@@ -549,7 +658,8 @@
       "days": [
         3
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.thingvellir.is/en/"
     },
     {
       "id": "gey",
@@ -560,7 +670,8 @@
       "days": [
         3
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.visiticeland.com/article/the-golden-circle/"
     },
     {
       "id": "gull",
@@ -571,7 +682,8 @@
       "days": [
         3
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.visiticeland.com/article/the-golden-circle/"
     },
     {
       "id": "sel",
@@ -582,7 +694,8 @@
       "days": [
         4
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.visiticeland.com/the-regions/the-south/"
     },
     {
       "id": "skog",
@@ -593,7 +706,8 @@
       "days": [
         4
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://ust.is/english/visiting-iceland/protected-areas/south/skogafoss/"
     },
     {
       "id": "vik",
@@ -604,7 +718,8 @@
       "days": [
         4
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.visiticeland.com/the-regions/the-south/"
     },
     {
       "id": "reyn",
@@ -615,7 +730,8 @@
       "days": [
         4
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://safetravel.is/"
     },
     {
       "id": "kirk",
@@ -626,7 +742,8 @@
       "days": [
         5
       ],
-      "coordinateStatus": "approximate"
+      "coordinateStatus": "approximate",
+      "infoUrl": "https://www.west.is/"
     }
   ],
   "legs": [
