@@ -1,0 +1,13 @@
+Item,Unit CAD,Quantity,Total CAD,Evidence,Optional
+"Icelandair return flights, all four",5381,1,5381,unverified,False
+"Two rooms, four nights (user quote)",2534,1,2534,unverified,False
+Flybus return with pickup allowance,110,4,440,estimate,False
+Golden Circle allowance,150,4,600,estimate,False
+South Coast allowance,180,4,720,estimate,False
+Meals: five Iceland calendar days; breakfast inclusion unknown,80,20,1600,estimate,False
+Sky Lagoon with shuttle allowance,180,4,720,estimate,True
+Snæfellsnes day tour allowance,210,4,840,estimate,True
+Northern lights guided outing allowance,130,4,520,estimate,True
+Checked baggage user-supplied add-on; verify return basis,200,4,800,unverified,True
+Refundable hotel upgrade user quote; verify per-stay basis,49,2,98,unverified,True
+"Insurance, data and local transport reserve",100,4,400,estimate,False
