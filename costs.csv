@@ -1,13 +1,18 @@
-Item,Unit CAD,Quantity,Total CAD,Evidence,Optional
-"Icelandair return flights, all four",5381,1,5381,unverified,False
-"Two rooms, four nights (user quote)",2534,1,2534,unverified,False
-Flybus return with pickup allowance,110,4,440,estimate,False
-Golden Circle allowance,150,4,600,estimate,False
-South Coast allowance,180,4,720,estimate,False
-Meals: five Iceland calendar days; breakfast inclusion unknown,80,20,1600,estimate,False
-Sky Lagoon with shuttle allowance,180,4,720,estimate,True
-Snæfellsnes day tour allowance,210,4,840,estimate,True
-Northern lights guided outing allowance,130,4,520,estimate,True
-Checked baggage user-supplied add-on; verify return basis,200,4,800,unverified,True
-Refundable hotel upgrade user quote; verify per-stay basis,49,2,98,unverified,True
-"Insurance, data and local transport reserve",100,4,400,estimate,False
+Item,Unit CAD,Quantity,Total CAD,Evidence,Optional,Source ISK per unit,Source URL,Notes
+Icelandair Economy Light return: all four,5380.48,1,5380.48,live quote,False,,https://www.icelandair.com/en-ca/,
+"Þingholt: two queen rooms, four nights; no breakfast",2678,1,2678,live quote,False,,https://www.expedia.ca/Reykjavik-Hotels-Ingholt-By-Center-Hotels.h1601404.Hotel-Information?chkin=2027-03-14&chkout=2027-03-18&rm1=a2&rm2=a2,
+Flybus hotel/stop transfers: two one-way tariffs,124,4,496,estimate,False,10598,https://flybus.is/plan-your-trip/prices/,"2 x ISK 5,299, taxes included. Return/group discounts not assumed; exact March total unverified."
+Grand Golden Circle coach: published starting fare,128.58,4,514.32,published reference,False,10990,https://bustravel.is/iceland-tours/golden-circle-day-tour,
+South Coast coach: published starting fare,187.08,4,748.32,published reference,False,15990,https://bustravel.is/iceland-tours/south-iceland-tour,
+Downtown pickup for the two core coach tours,18.6,8,148.8,published reference,False,1590,https://bustravel.is/faq,
+CityWalk contribution allowance; no fixed ticket price,25,4,100,estimate,False,,https://citywalk.is/tour/free-walking-tour-reykjavik/,"Author-selected contribution, not a required tariff."
+"Food: five Iceland days, breakfast not included",100,20,2000,estimate,False,,,"All planned restaurant meals are within this allowance, not additional ledger charges. Alcohol excluded."
+Sky Lagoon Saman: admission starting price only,175.38,4,701.52,published reference,True,14990,https://bustravel.is/iceland-tours/sky-lagoon-geothermal-spa-pure-ticket,
+Sky Lagoon return transport allowance,50,4,200,estimate,True,,https://www.skylagoon.com/book-transfer/,Not a quoted shuttle or taxi fare. Select alongside admission.
+Snæfellsnes coach: published starting fare,204.63,4,818.52,published reference,True,17490,https://bustravel.is/iceland-tours/snaefellsnes-peninsula-kirkjufell-tour,
+Pickup if choosing optional Snæfellsnes coach,18.6,4,74.4,published reference,True,1590,https://bustravel.is/faq,
+Northern Lights coach: published starting fare,116.88,4,467.52,published reference,True,9990,https://bustravel.is/iceland-tours/northern-lights-tour,
+Pickup if choosing optional aurora coach,18.6,4,74.4,published reference,True,1590,https://bustravel.is/faq,
+Upgrade every flight to Economy Standard: bags + basic seats,460,1,460,live quote,True,,https://www.icelandair.com/en-ca/,"Summary offered +CAD 460 total for all four / both flights; total airfare CAD 5,840.48. Non-refundable; changes for fee."
+Refundable queen-room upgrade: whole group stay,460,1,460,live quote,True,,https://www.expedia.ca/Reykjavik-Hotels-Ingholt-By-Center-Hotels.h1601404.Hotel-Information?chkin=2027-03-14&chkout=2027-03-18&rm1=a2&rm2=a2,"Observed total CAD 3,138 vs 2,678; refundable before March 12 shown. Check exact local deadline and payment terms."
+"Insurance, data and other local transport reserve",100,4,400,estimate,False,,,

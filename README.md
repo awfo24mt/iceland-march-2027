@@ -21,3 +21,7 @@ Leaflet 1.9.4: BSD-2-Clause, https://leafletjs.com (license header retained in J
 ## Scope
 
 No live fare inventory, 2027 tour departures or passport-specific entry determination. Restaurant-specific ratings/hours remain unresearched. Fare-watch status was not checked or changed.
+
+## October 16 research update
+
+See [RESEARCH.md](RESEARCH.md) for dated flight and hotel results, published tour prices, restaurants, assumptions and remaining booking checks. Run `python export_guide.py` to refresh the committed PDF, CSV and complete standalone HTML after content edits. The deployment build remains standard-library only.

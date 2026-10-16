@@ -6,7 +6,7 @@
   "baseCurrency": "CAD",
   "fx": {
     "CAD": 1,
-    "ISK": 0.01
+    "ISK": 0.0117
   },
   "sources": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "id": "bus",
-      "title": "Flybus planning and pickup",
-      "url": "https://flybus.is/plan-your-trip/",
+      "title": "Flybus official tariff: taxes included; return/group discounts at checkout",
+      "url": "https://flybus.is/plan-your-trip/prices/",
       "checked": "2026-10-16"
     },
     {
       "id": "circle",
-      "title": "Golden Circle operator guide",
-      "url": "https://www.re.is/blog/what%E2%80%91to%E2%80%91expect%E2%80%91golden%E2%80%91circle%E2%80%91tour/",
+      "title": "BusTravel Grand Golden Circle: morning departure includes Kerið",
+      "url": "https://bustravel.is/iceland-tours/golden-circle-day-tour",
       "checked": "2026-10-16"
     },
     {
@@ -47,8 +47,8 @@
     },
     {
       "id": "south",
-      "title": "South Coast tour booking channel",
-      "url": "https://www.re.is/",
+      "title": "BusTravel South Coast coach tour",
+      "url": "https://bustravel.is/iceland-tours/south-iceland-tour",
       "checked": "2026-10-16"
     },
     {
@@ -62,6 +62,104 @@
       "title": "Iceland immigration - check for each passport",
       "url": "https://island.is/en/o/directorate-of-immigration",
       "checked": "2026-10-16"
+    },
+    {
+      "id": "air-quote",
+      "title": "Icelandair dated return quote: four adults, FI602 / FI603",
+      "url": "https://www.icelandair.com/en-ca/",
+      "checked": "2026-10-16",
+      "note": "Icelandair trip summary and Expedia room selection observed in browser 16 October 2026, approximately 21:30 UTC. Prices can change before checkout. No booking made. Recreate YYZ–KEF March 13–18, four adults. Session/cart URLs are deliberately excluded."
+    },
+    {
+      "id": "hotel-quote",
+      "title": "Expedia dated quote: March 14–18, two rooms / four adults",
+      "url": "https://www.expedia.ca/Reykjavik-Hotels-Ingholt-By-Center-Hotels.h1601404.Hotel-Information?chkin=2027-03-14&chkout=2027-03-18&rm1=a2&rm2=a2",
+      "checked": "2026-10-16",
+      "note": "Room-selection quote, not a reservation. Standard Double queen bed: CAD 2,678 including CAD 75 estimated local tax payable in ISK. Two rooms x four nights. No breakfast."
+    },
+    {
+      "id": "pickup",
+      "title": "BusTravel pickup tariff, meals and cancellation / aurora retry terms",
+      "url": "https://bustravel.is/faq",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "snaef",
+      "title": "BusTravel Snæfellsnes coach tour",
+      "url": "https://bustravel.is/iceland-tours/snaefellsnes-peninsula-kirkjufell-tour",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "sky-price",
+      "title": "Sky Lagoon Saman admission through BusTravel; transport separate",
+      "url": "https://bustravel.is/iceland-tours/sky-lagoon-geothermal-spa-pure-ticket",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "aurora",
+      "title": "BusTravel Northern Lights Bus Tour",
+      "url": "https://bustravel.is/iceland-tours/northern-lights-tour",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "walk",
+      "title": "CityWalk: two-hour donation-based Reykjavík walk",
+      "url": "https://citywalk.is/tour/free-walking-tour-reykjavik/",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "fx",
+      "title": "Central Bank of Iceland: latest fixing 16 October 2026",
+      "url": "https://cb.is/statistics/official-exchange-rate/",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "street-food",
+      "title": "101 Reykjavík Street Food: official menu, address and hours",
+      "url": "https://101reykjavikstreetfood.is/all-food-menu/",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "loki",
+      "title": "Kaffi Loki: official menu",
+      "url": "https://loki.is/matsedill",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "loki-hours",
+      "title": "Kaffi Loki: address and opening hours",
+      "url": "https://loki.is/",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "messinn",
+      "title": "Messinn: hours and table reservations",
+      "url": "https://www.messinn.com/en",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "messinn-menu",
+      "title": "Messinn: official menu PDF",
+      "url": "https://dineout-sites-messinn.cdn.prismic.io/dineout-sites-messinn/abqrcbbci2UF6MEp_messinnMENUen.pdf",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "sandholt",
+      "title": "Sandholt bakery: address and opening hours",
+      "url": "https://sandholt.is/",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "transfer-times",
+      "title": "Flybus current departure timetable; recheck for March",
+      "url": "https://flybus.is/",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "baggage",
+      "title": "Icelandair baggage guidance",
+      "url": "https://www.icelandair.com/en-ca/support/baggage/overview/",
+      "checked": "2026-10-16"
     }
   ],
   "days": [
@@ -73,7 +171,7 @@
       "hotel": "",
       "events": [
         {
-          "title": "Arrive YYZ target; check actual terminal and airline reporting requirement",
+          "title": "Arrive Toronto Pearson Terminal 3 target; allow three hours before departure and recheck airline instructions.",
           "time": "16:40",
           "type": "flight",
           "status": "unverified",
@@ -82,11 +180,12 @@
           ]
         },
         {
-          "title": "FI602 user-supplied departure; Economy Light, non-refundable. Confirm cabin baggage, seats and schedule.",
+          "title": "FI602 YYZ 19:40 → KEF 06:25 March 14, nonstop 5h45. Dated schedule and fare observed October 16; not booked.",
           "time": "19:40",
           "type": "flight",
-          "status": "unverified",
-          "costs": []
+          "status": "live quote",
+          "costs": [],
+          "source": "air-quote"
         }
       ],
       "highlights": [
@@ -99,7 +198,8 @@
           "point": "hotel",
           "optional": false
         }
-      ]
+      ],
+      "links": []
     },
     {
       "n": 2,
@@ -109,11 +209,12 @@
       "hotel": "thingholt",
       "events": [
         {
-          "title": "FI602 arrives KEF, user-supplied. Immigration and baggage buffer before transfer.",
+          "title": "FI602 scheduled arrival KEF 06:25. Immigration and bags before Flybus; no fixed arrival transfer booked.",
           "time": "06:25",
           "type": "flight",
-          "status": "unverified",
-          "costs": []
+          "status": "live quote",
+          "costs": [],
+          "source": "air-quote"
         },
         {
           "title": "Flybus departure target after formalities, not a reserved departure. About 45 min to BSÍ plus city transfer.",
@@ -125,16 +226,17 @@
           ]
         },
         {
-          "title": "Leave bags at hotel; early room access is not included. Breakfast and gentle Laugavegur / harbour walk.",
+          "title": "Leave bags at hotel; no early room access promised. Breakfast nearby; optional afternoon CityWalk (2 hours, contribution allowance).",
           "time": "10:00",
           "type": "meal",
           "status": "estimate",
           "costs": [
-            "food"
+            "food",
+            "walk"
           ]
         },
         {
-          "title": "Hallgrímskirkja exterior and old town; tower admission extra. Check room access with hotel.",
+          "title": "Hallgrímskirkja exterior and Kaffi Loki lunch option. Hotel published check-in is 15:00; tower entry extra and not priced.",
           "time": "14:00",
           "type": "sight",
           "status": "estimate",
@@ -143,16 +245,17 @@
           ]
         },
         {
-          "title": "Optional Sky Lagoon with prebooked shuttle; move to March 17 if tired. Choose one lagoon.",
+          "title": "Optional Sky Lagoon Saman if rested, otherwise move to March 17. Admission from ISK 14,990; transport separate and slot not verified.",
           "time": "16:00",
           "type": "sight",
           "status": "estimate",
           "costs": [
-            "sky"
+            "sky",
+            "sky-transfer"
           ]
         },
         {
-          "title": "Easy dinner and early night. Aurora only if rested and conditions allow.",
+          "title": "Easy dinner: 101 Reykjavík Street Food; soup / fish and chips. Early night after the overnight flight.",
           "time": "19:00",
           "type": "meal",
           "status": "estimate",
@@ -178,6 +281,12 @@
           "point": "hotel",
           "optional": false
         }
+      ],
+      "links": [
+        {
+          "title": "CityWalk Reykjavík",
+          "url": "https://citywalk.is/tour/free-walking-tour-reykjavik/"
+        }
       ]
     },
     {
@@ -197,23 +306,24 @@
           ]
         },
         {
-          "title": "Full-day guided loop: Þingvellir, Strokkur/Geysir and Gullfoss. Allow 6.5–8+ hours by product. Kerið only if expressly included.",
+          "title": "BusTravel Grand Golden Circle morning tour, about 8.5 hours: Þingvellir, Geysir, Gullfoss and Kerið. Published from ISK 10,990 + 1,590 pickup/person; March 15 departure time and inventory unverified.",
           "time": "09:00",
           "type": "bus",
           "status": "estimate",
           "costs": [
-            "gold"
+            "gold",
+            "pickup"
           ]
         },
         {
-          "title": "Lunch stop set by operator; budget included in meal allowance.",
+          "title": "Lunch at Geysir stop or packed food, paid from food allowance. This product does not promise Friðheimar lunch.",
           "time": "12:30",
           "type": "meal",
           "status": "estimate",
           "costs": []
         },
         {
-          "title": "Return target, dinner downtown. If tour cancelled, swap with flex day.",
+          "title": "Return target; flexible downtown dinner. 101 Street Food is the easy fallback; move a cancelled tour to March 17.",
           "time": "18:00",
           "type": "meal",
           "status": "estimate",
@@ -248,6 +358,12 @@
           "point": "gull",
           "optional": false
         }
+      ],
+      "links": [
+        {
+          "title": "BusTravel · Grand Golden Circle",
+          "url": "https://bustravel.is/iceland-tours/golden-circle-day-tour"
+        }
       ]
     },
     {
@@ -267,7 +383,7 @@
           ]
         },
         {
-          "title": "Allow 10–12 hours: Seljalandsfoss, Skógafoss, glacier viewpoint and Vík area, depending on operator and roads. No glacier walk included.",
+          "title": "BusTravel South Coast coach, about 10 hours; allow 10–12. From ISK 15,990 + 1,590 pickup/person. March 16 time and inventory unverified. Waterfalls, glacier viewpoint, beach and Vík as conditions permit; no glacier hike.",
           "time": "08:00",
           "type": "bus",
           "status": "estimate",
@@ -276,14 +392,14 @@
           ]
         },
         {
-          "title": "Lunch break en route. Reynisfjara only where access and guide permit; follow current alerts and stay away from surf.",
+          "title": "Operator normally stops in Vík for lunch; carry snacks, eat during the stop. Reynisfjara only where permitted; follow guide and access alerts.",
           "time": "13:00",
           "type": "meal",
           "status": "estimate",
           "costs": []
         },
         {
-          "title": "Return target; simple dinner. Keep evening free after a long day.",
+          "title": "Late dinner target: 101 Street Food (published closing 22:00). Do not prepay an early restaurant reservation after this tour.",
           "time": "20:00",
           "type": "meal",
           "status": "estimate",
@@ -299,6 +415,12 @@
           "caption": "A South Coast highlight. Keep to open paths; steps and spray can be icy.",
           "point": "skog",
           "optional": false
+        }
+      ],
+      "links": [
+        {
+          "title": "BusTravel · South Coast Waterfalls, Glacier & Black Sand Beach",
+          "url": "https://bustravel.is/iceland-tours/south-iceland-tour"
         }
       ]
     },
@@ -319,28 +441,30 @@
           ]
         },
         {
-          "title": "Default: harbour, Harpa exterior, old town cafés; optional Sky Lagoon if skipped on arrival.",
+          "title": "Default: city / CityWalk if skipped, Kaffi Loki lunch, and optional Sky Lagoon instead of Snæfellsnes. Messinn dinner around 18:30; reserve separately.",
           "time": "10:00",
           "type": "sight",
           "status": "estimate",
           "costs": []
         },
         {
-          "title": "Optional Snæfellsnes: approximately 11–12 hours, operator/date unverified. Adds cost and removes buffer; choose only with good conditions.",
+          "title": "Optional BusTravel Snæfellsnes Peninsula coach, 11 hours. From ISK 17,490 + 1,590 pickup/person. March 17 availability unverified. Replaces city / lagoon plan and removes weather buffer.",
           "time": "08:00 alternative",
           "type": "bus",
           "status": "estimate",
           "costs": [
-            "snaef"
+            "snaef",
+            "snaef-pickup"
           ]
         },
         {
-          "title": "Optional northern lights outing. Sightings never guaranteed; check refund/retry terms and weather.",
+          "title": "Optional BusTravel Northern Lights coach, ~4 hours: from ISK 9,990 + 1,590 pickup/person. Choose first clear rested evening March 14–17 rather than rely only on last night; weather-dependent, no sighting guarantee.",
           "time": "20:30",
           "type": "sight",
           "status": "estimate",
           "costs": [
-            "aurora"
+            "aurora",
+            "aurora-pickup"
           ]
         }
       ],
@@ -363,6 +487,12 @@
           "point": "thing",
           "optional": true
         }
+      ],
+      "links": [
+        {
+          "title": "Weather buffer; optional BusTravel · Snæfellsnes Peninsula",
+          "url": "https://bustravel.is/iceland-tours/snaefellsnes-peninsula-kirkjufell-tour"
+        }
       ]
     },
     {
@@ -373,7 +503,7 @@
       "hotel": "",
       "events": [
         {
-          "title": "Breakfast, short local walk and checkout by hotel deadline; luggage storage to confirm.",
+          "title": "Sandholt / hotel breakfast, short walk. Published hotel checkout by 11:00; confirm bag storage.",
           "time": "09:00",
           "type": "meal",
           "status": "estimate",
@@ -382,18 +512,19 @@
           ]
         },
         {
-          "title": "Hotel/stop pickup target, roughly four hours before flight. Confirm voucher. Allow up to 75 min with city shuttle; aim at KEF 14:00–14:30. Earlier transfer if conditions deteriorate.",
-          "time": "13:00",
+          "title": "Use earlier Flybus reference: hotel/stop pickup 12:30 → BSÍ 13:00 → KEF about 13:45. Current published pattern, not a March voucher. Reconfirm and leave earlier in adverse weather.",
+          "time": "12:30 target",
           "type": "bus",
           "status": "estimate",
           "costs": []
         },
         {
-          "title": "FI603 user-supplied departure. Arrive Toronto 19:15 local, 6h15 supplied duration.",
+          "title": "FI603 KEF 17:00 → YYZ 19:15 local, nonstop 6h15. Dated airline schedule observed October 16; not booked.",
           "time": "17:00",
           "type": "flight",
-          "status": "unverified",
-          "costs": []
+          "status": "live quote",
+          "costs": [],
+          "source": "air-quote"
         }
       ],
       "highlights": [
@@ -406,7 +537,8 @@
           "point": "hotel",
           "optional": false
         }
-      ]
+      ],
+      "links": []
     }
   ],
   "hotels": [
@@ -417,141 +549,273 @@
       "checkout": "2027-03-18",
       "nights": 4,
       "rooms": 2,
-      "source": "hotel"
+      "source": "hotel-quote",
+      "quoteTotalCAD": 2678,
+      "roomType": "Two Standard Double rooms; one queen bed per room",
+      "breakfast": false,
+      "quoteStatus": "live quote",
+      "alternatives": [
+        {
+          "title": "Standard Double or Twin rooms; non-refundable, no breakfast",
+          "totalCAD": 2832
+        },
+        {
+          "title": "Queen rooms; refundable before March 12, no breakfast",
+          "totalCAD": 3138
+        },
+        {
+          "title": "Queen rooms; non-refundable, breakfast option",
+          "totalCAD": 3151
+        }
+      ]
     }
   ],
   "ledger": [
     {
       "id": "air",
       "category": "Flights",
-      "title": "Icelandair return flights, all four",
-      "amount": 5381,
+      "title": "Icelandair Economy Light return: all four",
+      "amount": 5380.48,
       "currency": "CAD",
       "qty": 1,
       "unit": "group return",
-      "status": "unverified",
-      "optional": false
+      "status": "live quote",
+      "optional": false,
+      "note": "",
+      "source": "air-quote"
     },
     {
       "id": "hotel",
       "category": "Hotel",
-      "title": "Two rooms, four nights (user quote)",
-      "amount": 2534,
+      "title": "Þingholt: two queen rooms, four nights; no breakfast",
+      "amount": 2678,
       "currency": "CAD",
       "qty": 1,
-      "unit": "whole stay",
-      "status": "unverified",
-      "optional": false
+      "unit": "whole stay incl. local tax estimate",
+      "status": "live quote",
+      "optional": false,
+      "note": "",
+      "source": "hotel-quote"
     },
     {
       "id": "bus",
       "category": "Transfers",
-      "title": "Flybus return with pickup allowance",
-      "amount": 110,
+      "title": "Flybus hotel/stop transfers: two one-way tariffs",
+      "amount": 124,
       "currency": "CAD",
       "qty": 4,
-      "unit": "person return",
+      "unit": "person return before discounts",
       "status": "estimate",
-      "optional": false
+      "optional": false,
+      "note": "2 x ISK 5,299, taxes included. Return/group discounts not assumed; exact March total unverified.",
+      "source": "bus",
+      "sourceAmount": 10598,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
     },
     {
       "id": "gold",
       "category": "Tours",
-      "title": "Golden Circle allowance",
-      "amount": 150,
+      "title": "Grand Golden Circle coach: published starting fare",
+      "amount": 128.58,
       "currency": "CAD",
       "qty": 4,
       "unit": "person",
-      "status": "estimate",
-      "optional": false
+      "status": "published reference",
+      "optional": false,
+      "note": "",
+      "source": "circle",
+      "sourceAmount": 10990,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
     },
     {
       "id": "south",
       "category": "Tours",
-      "title": "South Coast allowance",
-      "amount": 180,
+      "title": "South Coast coach: published starting fare",
+      "amount": 187.08,
+      "currency": "CAD",
+      "qty": 4,
+      "unit": "person",
+      "status": "published reference",
+      "optional": false,
+      "note": "",
+      "source": "south",
+      "sourceAmount": 15990,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
+    },
+    {
+      "id": "pickup",
+      "category": "Tours",
+      "title": "Downtown pickup for the two core coach tours",
+      "amount": 18.6,
+      "currency": "CAD",
+      "qty": 8,
+      "unit": "person/tour; 4 people x 2 tours",
+      "status": "published reference",
+      "optional": false,
+      "note": "",
+      "source": "pickup",
+      "sourceAmount": 1590,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
+    },
+    {
+      "id": "walk",
+      "category": "Tours",
+      "title": "CityWalk contribution allowance; no fixed ticket price",
+      "amount": 25,
       "currency": "CAD",
       "qty": 4,
       "unit": "person",
       "status": "estimate",
-      "optional": false
+      "optional": false,
+      "note": "Author-selected contribution, not a required tariff.",
+      "source": "walk"
     },
     {
       "id": "food",
       "category": "Meals",
-      "title": "Meals: five Iceland calendar days; breakfast inclusion unknown",
-      "amount": 80,
+      "title": "Food: five Iceland days, breakfast not included",
+      "amount": 100,
       "currency": "CAD",
       "qty": 20,
       "unit": "person/day",
       "status": "estimate",
-      "optional": false
+      "optional": false,
+      "note": "All planned restaurant meals are within this allowance, not additional ledger charges. Alcohol excluded."
     },
     {
       "id": "sky",
+      "category": "Tours",
+      "title": "Sky Lagoon Saman: admission starting price only",
+      "amount": 175.38,
+      "currency": "CAD",
+      "qty": 4,
+      "unit": "person",
+      "status": "published reference",
+      "optional": true,
+      "note": "",
+      "source": "sky-price",
+      "sourceAmount": 14990,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
+    },
+    {
+      "id": "sky-transfer",
       "category": "Optional",
-      "title": "Sky Lagoon with shuttle allowance",
-      "amount": 180,
+      "title": "Sky Lagoon return transport allowance",
+      "amount": 50,
       "currency": "CAD",
       "qty": 4,
       "unit": "person",
       "status": "estimate",
-      "optional": true
+      "optional": true,
+      "note": "Not a quoted shuttle or taxi fare. Select alongside admission.",
+      "source": "sky"
     },
     {
       "id": "snaef",
-      "category": "Optional",
-      "title": "Snæfellsnes day tour allowance",
-      "amount": 210,
+      "category": "Tours",
+      "title": "Snæfellsnes coach: published starting fare",
+      "amount": 204.63,
       "currency": "CAD",
       "qty": 4,
       "unit": "person",
-      "status": "estimate",
-      "optional": true
+      "status": "published reference",
+      "optional": true,
+      "note": "",
+      "source": "snaef",
+      "sourceAmount": 17490,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
+    },
+    {
+      "id": "snaef-pickup",
+      "category": "Tours",
+      "title": "Pickup if choosing optional Snæfellsnes coach",
+      "amount": 18.6,
+      "currency": "CAD",
+      "qty": 4,
+      "unit": "person",
+      "status": "published reference",
+      "optional": true,
+      "note": "",
+      "source": "pickup",
+      "sourceAmount": 1590,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
     },
     {
       "id": "aurora",
-      "category": "Optional",
-      "title": "Northern lights guided outing allowance",
-      "amount": 130,
+      "category": "Tours",
+      "title": "Northern Lights coach: published starting fare",
+      "amount": 116.88,
       "currency": "CAD",
       "qty": 4,
       "unit": "person",
-      "status": "estimate",
-      "optional": true
+      "status": "published reference",
+      "optional": true,
+      "note": "",
+      "source": "aurora",
+      "sourceAmount": 9990,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
+    },
+    {
+      "id": "aurora-pickup",
+      "category": "Tours",
+      "title": "Pickup if choosing optional aurora coach",
+      "amount": 18.6,
+      "currency": "CAD",
+      "qty": 4,
+      "unit": "person",
+      "status": "published reference",
+      "optional": true,
+      "note": "",
+      "source": "pickup",
+      "sourceAmount": 1590,
+      "sourceCurrency": "ISK",
+      "conversionRate": 0.0117
     },
     {
       "id": "bag",
       "category": "Optional",
-      "title": "Checked baggage user-supplied add-on; verify return basis",
-      "amount": 200,
+      "title": "Upgrade every flight to Economy Standard: bags + basic seats",
+      "amount": 460,
       "currency": "CAD",
-      "qty": 4,
-      "unit": "person",
-      "status": "unverified",
-      "optional": true
+      "qty": 1,
+      "unit": "group return upgrade",
+      "status": "live quote",
+      "optional": true,
+      "note": "Summary offered +CAD 460 total for all four / both flights; total airfare CAD 5,840.48. Non-refundable; changes for fee.",
+      "source": "air-quote"
     },
     {
       "id": "refund",
       "category": "Optional",
-      "title": "Refundable hotel upgrade user quote; verify per-stay basis",
-      "amount": 49,
+      "title": "Refundable queen-room upgrade: whole group stay",
+      "amount": 460,
       "currency": "CAD",
-      "qty": 2,
-      "unit": "room/stay",
-      "status": "unverified",
-      "optional": true
+      "qty": 1,
+      "unit": "two rooms x four nights upgrade",
+      "status": "live quote",
+      "optional": true,
+      "note": "Observed total CAD 3,138 vs 2,678; refundable before March 12 shown. Check exact local deadline and payment terms.",
+      "source": "hotel-quote"
     },
     {
       "id": "extras",
       "category": "Other",
-      "title": "Insurance, data and local transport reserve",
+      "title": "Insurance, data and other local transport reserve",
       "amount": 100,
       "currency": "CAD",
       "qty": 4,
       "unit": "person",
       "status": "estimate",
-      "optional": false
+      "optional": false,
+      "note": ""
     }
   ],
   "points": [
@@ -896,6 +1160,95 @@
         6
       ],
       "status": "unverified"
+    }
+  ],
+  "research": {
+    "checked": "2026-10-16",
+    "assumption": "Four adults; two rooms with two guests each. No tickets, rooms or tours booked.",
+    "fxNote": "Central Bank of Iceland latest fixing 16 October 2026: CAD 1 = ISK 85.47. Rounded budgeting rate CAD 0.0117 per ISK; card spreads and March exchange rates differ.",
+    "bookingGap": "BusTravel booking widget did not render a usable dated calendar. Tour amounts below are operator-published starting prices, not confirmed March inventory.",
+    "quoteBasis": "Icelandair trip summary and Expedia room selection observed in browser 16 October 2026, approximately 21:30 UTC. Prices can change before checkout.",
+    "baselineCAD": 12465.92
+  },
+  "tourOptions": [
+    {
+      "day": 2,
+      "title": "CityWalk Reykjavík",
+      "price": "No fixed fare; C$25/person contribution allowance",
+      "duration": "2 hours",
+      "status": "published reference + contribution estimate",
+      "source": "walk",
+      "description": "Aim for an afternoon walk after leaving bags; choose the actual offered slot. If tired after the overnight flight, use the self-guided route and move CityWalk to March 17."
+    },
+    {
+      "day": 3,
+      "title": "BusTravel · Grand Golden Circle",
+      "price": "From ISK 10,990 + ISK 1,590 pickup = ISK 12,580 / ~C$147.18 per person; ~C$588.72 for four",
+      "duration": "8.5 hours",
+      "status": "published reference; March 15 inventory unverified",
+      "source": "circle",
+      "description": "Choose a morning English departure for Þingvellir, Geysir, Gullfoss and Kerið admission. Departures at noon or later omit Kerið. Lunch is separate; operator allows a stop at Geysir. Suggested 08:00 pickup is a target until voucher issued."
+    },
+    {
+      "day": 4,
+      "title": "BusTravel · South Coast Waterfalls, Glacier & Black Sand Beach",
+      "price": "From ISK 15,990 + ISK 1,590 pickup = ISK 17,580 / ~C$205.68 per person; ~C$822.72 for four",
+      "duration": "10 hours; keep 10–12 hours clear",
+      "status": "published reference; March 16 inventory unverified",
+      "source": "south",
+      "description": "Seljalandsfoss, Skógafoss, Sólheimajökull viewpoint, Reynisfjara and Vík. Glacier approach involves a 15–20 minute walk from parking; no walking on the ice is included. Lunch stop is normally in Vík. Access and stop order follow the guide and conditions."
+    },
+    {
+      "day": 5,
+      "title": "Weather buffer; optional BusTravel · Snæfellsnes Peninsula",
+      "price": "From ISK 17,490 + ISK 1,590 pickup = ISK 19,080 / ~C$223.23 per person; ~C$892.92 for four",
+      "duration": "11 hours",
+      "status": "optional published reference; March 17 inventory unverified",
+      "source": "snaef",
+      "description": "Kirkjufell, Arnarstapi, Djúpalónssandur, Búðir and other peninsula stops as conditions permit. Meals separate. Keep this unbooked until the two core tour days and forecast are secure; otherwise retain the city/lagoon day."
+    }
+  ],
+  "dining": [
+    {
+      "id": "street-food",
+      "name": "101 Reykjavík Street Food",
+      "source": "street-food",
+      "address": "Skólavörðustígur 8",
+      "price": "Vegetable noodle soup ISK 2,490 (~C$29); lamb / lobster soup ISK 2,890 (~C$34); fish and chips ISK 3,290 (~C$38).",
+      "hours": "Published daily 11:00–22:00; recheck close to travel.",
+      "plan": "March 14 easy dinner, or March 16 after the South Coast. About 5 minutes on foot from the hotel (planning estimate). No reservation made.",
+      "note": "A practical inexpensive dinner relative to local sit-down options; vegan noodle soup is listed."
+    },
+    {
+      "id": "loki",
+      "name": "Kaffi Loki",
+      "source": "loki",
+      "address": "Lokastígur 28, opposite Hallgrímskirkja",
+      "price": "Lamb soup ISK 4,850 (~C$57); baked fish stew ISK 5,250 (~C$61); rye bread with smoked trout ISK 2,700 (~C$32).",
+      "hours": "Published daily 08:00–22:00; kitchen to 21:30.",
+      "plan": "March 14 lunch with the church walk, or March 17 city lunch. About 10–15 minutes on foot from the hotel (estimate).",
+      "note": "Good for a traditional Icelandic meal; menu and availability can change."
+    },
+    {
+      "id": "messinn",
+      "name": "Messinn",
+      "source": "messinn-menu",
+      "bookingUrl": "https://www.messinn.com/en",
+      "address": "Lækjargata 6b",
+      "price": "Fish pans ISK 5,450–5,900 (~C$64–69); vegan fritters ISK 4,850 (~C$57); desserts ISK 2,900 (~C$34).",
+      "hours": "Published Sun–Thu 11:30–21:00; Fri–Sat to 22:00.",
+      "plan": "March 17 dinner around 18:30 on the city/buffer plan. Reserve for four via the official site. Avoid a fixed early table after a full-day excursion.",
+      "note": "The sit-down seafood choice, about 5 minutes from the hotel (estimate). Main course only: four fish mains ~C$255–276 before drinks/dessert."
+    },
+    {
+      "id": "sandholt",
+      "name": "Sandholt bakery",
+      "source": "sandholt",
+      "address": "Laugavegur 36",
+      "price": "Allow C$20–30/person for a bakery breakfast or takeaway; estimate, menu price not verified.",
+      "hours": "Published daily 07:30–18:00.",
+      "plan": "March 15/16 takeaway before pickup if time permits, or March 18 breakfast. About 10 minutes on foot (estimate); hotel breakfast is safer for an early tour.",
+      "note": "Buy picnic food ahead of the tour when possible. Exact March hours and prices remain to be checked."
     }
   ]
 }
