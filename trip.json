@@ -160,6 +160,12 @@
       "title": "Icelandair baggage guidance",
       "url": "https://www.icelandair.com/en-ca/support/baggage/overview/",
       "checked": "2026-10-16"
+    },
+    {
+      "id": "pickup-stop",
+      "title": "Þingholt pickup: Tour Bus Stop 6, Culture House (checked October 17)",
+      "url": "https://bustravel.is/bus-pickup-locations-in-reykjavik",
+      "checked": "2026-10-17"
     }
   ],
   "days": [
@@ -364,7 +370,8 @@
           "title": "BusTravel · Grand Golden Circle",
           "url": "https://bustravel.is/iceland-tours/golden-circle-day-tour"
         }
-      ]
+      ],
+      "pickupNote": "Þingholt pickup: Tour Bus Stop 6, Safnahúsið / Culture House, corner of Hverfisgata and Ingólfsstræti. Walk to this designated stop; pickup is not at the hotel door. Select it when booking and follow the final voucher. Coach pickup supplement ISK 1,590/person/tour is included in the displayed tour totals."
     },
     {
       "n": 4,
@@ -422,7 +429,8 @@
           "title": "BusTravel · South Coast Waterfalls, Glacier & Black Sand Beach",
           "url": "https://bustravel.is/iceland-tours/south-iceland-tour"
         }
-      ]
+      ],
+      "pickupNote": "Þingholt pickup: Tour Bus Stop 6, Safnahúsið / Culture House, corner of Hverfisgata and Ingólfsstræti. Walk to this designated stop; pickup is not at the hotel door. Select it when booking and follow the final voucher. Coach pickup supplement ISK 1,590/person/tour is included in the displayed tour totals."
     },
     {
       "n": 5,
@@ -493,7 +501,8 @@
           "title": "Weather buffer; optional BusTravel · Snæfellsnes Peninsula",
           "url": "https://bustravel.is/iceland-tours/snaefellsnes-peninsula-kirkjufell-tour"
         }
-      ]
+      ],
+      "pickupNote": "If choosing the optional Snæfellsnes coach: Þingholt pickup: Tour Bus Stop 6, Safnahúsið / Culture House, corner of Hverfisgata and Ingólfsstræti. Walk to this designated stop; pickup is not at the hotel door. Select it when booking and follow the final voucher. Coach pickup supplement ISK 1,590/person/tour is included in the displayed tour totals."
     },
     {
       "n": 6,
@@ -1187,7 +1196,8 @@
       "duration": "8.5 hours",
       "status": "published reference; March 15 inventory unverified",
       "source": "circle",
-      "description": "Choose a morning English departure for Þingvellir, Geysir, Gullfoss and Kerið admission. Departures at noon or later omit Kerið. Lunch is separate; operator allows a stop at Geysir. Suggested 08:00 pickup is a target until voucher issued."
+      "description": "Choose a morning English departure for Þingvellir, Geysir, Gullfoss and Kerið admission. Departures at noon or later omit Kerið. Lunch is separate; operator allows a stop at Geysir. Suggested 08:00 pickup is a target until voucher issued.",
+      "pickupNote": "Þingholt pickup: Tour Bus Stop 6, Safnahúsið / Culture House, corner of Hverfisgata and Ingólfsstræti. Walk to this designated stop; pickup is not at the hotel door. Select it when booking and follow the final voucher. Coach pickup supplement ISK 1,590/person/tour is included in the displayed tour totals."
     },
     {
       "day": 4,
@@ -1196,7 +1206,8 @@
       "duration": "10 hours; keep 10–12 hours clear",
       "status": "published reference; March 16 inventory unverified",
       "source": "south",
-      "description": "Seljalandsfoss, Skógafoss, Sólheimajökull viewpoint, Reynisfjara and Vík. Glacier approach involves a 15–20 minute walk from parking; no walking on the ice is included. Lunch stop is normally in Vík. Access and stop order follow the guide and conditions."
+      "description": "Seljalandsfoss, Skógafoss, Sólheimajökull viewpoint, Reynisfjara and Vík. Glacier approach involves a 15–20 minute walk from parking; no walking on the ice is included. Lunch stop is normally in Vík. Access and stop order follow the guide and conditions.",
+      "pickupNote": "Þingholt pickup: Tour Bus Stop 6, Safnahúsið / Culture House, corner of Hverfisgata and Ingólfsstræti. Walk to this designated stop; pickup is not at the hotel door. Select it when booking and follow the final voucher. Coach pickup supplement ISK 1,590/person/tour is included in the displayed tour totals."
     },
     {
       "day": 5,
@@ -1205,7 +1216,8 @@
       "duration": "11 hours",
       "status": "optional published reference; March 17 inventory unverified",
       "source": "snaef",
-      "description": "Kirkjufell, Arnarstapi, Djúpalónssandur, Búðir and other peninsula stops as conditions permit. Meals separate. Keep this unbooked until the two core tour days and forecast are secure; otherwise retain the city/lagoon day."
+      "description": "Kirkjufell, Arnarstapi, Djúpalónssandur, Búðir and other peninsula stops as conditions permit. Meals separate. Keep this unbooked until the two core tour days and forecast are secure; otherwise retain the city/lagoon day.",
+      "pickupNote": "Þingholt pickup: Tour Bus Stop 6, Safnahúsið / Culture House, corner of Hverfisgata and Ingólfsstræti. Walk to this designated stop; pickup is not at the hotel door. Select it when booking and follow the final voucher. Coach pickup supplement ISK 1,590/person/tour is included in the displayed tour totals."
     }
   ],
   "dining": [
