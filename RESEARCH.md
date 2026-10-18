@@ -1,3 +1,68 @@
+# Iceland extended plan and private-driver research
+
+**Updated October 18, 2026. New assumed dates: March 13–20, 2027. Four adults; two rooms; six hotel nights March 14–20.** The user asked for two extra days; these have been added at the end to create flexibility. No bookings or supplier messages have been sent.
+
+## Assessment
+
+A private driver is a sensible comfort/flexibility upgrade for a group of four, particularly on the South Coast. It lets the group choose pace, start time and stops within the booked scope. However, **a private day tour is not a driver retained on standby for the entire holiday**. Agree date swaps and major route changes in writing. The ability to reverse stop order does not establish a right to replace a South Coast booking with Snæfellsnes or to move it to another date free of charge.
+
+A professional should assess wind, temperature, road surfaces/closures and official alerts as well as precipitation radar. Broad storms can affect several regions at once. No operator can guarantee that another safe sightseeing route will be available. Group-tour operators also alter itineraries for conditions; the private benefit is adapting to this party’s preferences. This assessment is an inference from the operators’ published scope and official travel guidance, not a guarantee of an operator’s March actions.
+
+Official tools: [Icelandic Met Office](https://en.vedur.is/weather/forecasts/elements/), [road conditions](https://umferdin.is/en), [SafeTravel](https://safetravel.is/). Today's alerts are not forecasts for March 2027.
+
+## Where to book
+
+All amounts below are **published references checked October 18, not dated availability or personalised quotes**. ISK is the native price; approximate CAD keeps the earlier C$0.0117/ISK planning rate rather than presenting a fresh FX quote. Prices are per private vehicle, not multiplied by four.
+
+| Operator | Golden Circle | South Coast | How to proceed |
+|---|---|---|---|
+| Drive Reykjavik | [7–8h, ISK 90,000 / ~C$1,053](https://drivereykjavik.is/tours/golden-circle) | [9–10h, ISK 125,000 / ~C$1,462.50](https://drivereykjavik.is/tours/south-coast) | Product booking pages and contact links; ask for two days within March 15–19 and written route/date flexibility. Up to four in the quoted car class; confirm comfort/luggage. |
+| Skyline Taxi | [7–8h, ISK 119,900 / ~C$1,402.83](https://www.skylinetaxi.is/golden-circle-private-tour) | [9–10h, ISK 149,900 / ~C$1,753.83](https://www.skylinetaxi.is/south-coast-private-tour) | Official booking / quote links. Pages state hotel pickup, taxes, fuel and parking; food and optional admission extra. Published 48h free-cancellation cutoff; verify selected product and weather terms. |
+| Hidden Iceland | [Private Golden Circle Delight, from ISK 340,000 / ~C$3,978](https://hiddeniceland.is/private-golden-circle-delight-day-tour/) | Custom quote required | Premium guided product: ~8h with private transport, a guide and Friðheimar lunch excluding alcohol. Request an itemised four-person quote. Different inclusions from a basic driver day; deduct included lunch from ordinary meal allowance if selected. |
+
+Drive Reykjavik’s [FAQ](https://drivereykjavik.is/faq) says stops may change within the booked scope, while extra time or routes can change price. It advertises hotel/address pickup and 24h free cancellation; get exact March weather/date-change conditions. Its FAQ contains lower South Coast/van figures than current product pages, so the budget uses **the product-page 125,000 ISK car price** and requires reconciliation in a written quote. Entrance fees and meals are not included. Ask whether the service supplies a dedicated guide or a driver with commentary; these are different products.
+
+No independent quality/rating audit or licensing verification was completed. The shortlist identifies booking channels and published scope, not a guarantee of performance. Before payment, confirm the named operator, applicable passenger transport permissions, insurance, winter-equipped vehicle, English-speaking guide if required, daily hours, overtime, all taxes/fees, actual Þingholt pickup point, cancellation and supplier-initiated weather refunds. Ordinary private-day tariffs do not include six-day standby or airport transfers.
+
+## Suggested request — prepared, not sent
+
+Four travellers staying at Þingholt March 14–20, 2027. Please quote Golden Circle and South Coast on two days within March 15–19, with an English-speaking driver-guide and an appropriately sized private vehicle. Can we choose route order from the forecast and move a booked day into March 17 or 19? When must we decide, and what date-change or standby charges apply? Please itemise hours, extra time, hotel pickup, winter tyres, taxes, fuel, parking, admissions, deposit, and weather cancellation/refund terms. Please distinguish a driver from a guide who accompanies us at sights.
+
+## Eight-day itinerary
+
+| Date | Plan | Flexibility |
+|---|---|---|
+| Sat March 13 | Toronto departure / overnight flight | Outbound schedule reference only; whole ticket needs a new quote. |
+| Sun March 14 | Arrive, leave bags, easy Reykjavík / optional CityWalk | Avoid a long compulsory excursion after overnight travel. |
+| Mon March 15 | Golden Circle target | Can swap with another agreed excursion/buffer day. |
+| Tue March 16 | South Coast target | Driver chooses safe stop order; full route/date changes require agreement. |
+| Wed March 17 | First weather buffer; city / lagoon if unused | Keep lightly booked. |
+| Thu March 18 | Lagoon / slow city day; optional Snæfellsnes if conditions allow | Choose one, not both; do not consume both buffer days with extras. |
+| Fri March 19 | Second weather buffer; city / farewell dinner if no tour needs moving | Keep available for delayed core excursion. |
+| Sat March 20 | Checkout, airport transfer, flight home | Return flight number and times are unverified; transfer time TBC. |
+
+The hotel remains a Reykjavík base throughout, with six nights and no car rental. Two excursions plus flexible days are deliberate; a private driver has not been costed for every day in Iceland. The Ring Road and a rushed glacier-lagoon excursion are not added.
+
+## Revised budget — estimates for the new dates
+
+The old October 16 live quotes were for a March 18 return and four hotel nights. They **do not verify** the March 20 flight or the six-night stay. Airfare provisional allowance C$5,380.48; six-night hotel C$4,017 estimated by scaling the old C$2,678 × 1.5; food C$100 × 4 × 7 Iceland days = C$2,800. Flybus C$496, CityWalk contribution C$100 and other reserves C$400 remain. Refundable hotel and airfare upgrade supplements are now estimates requiring new quotes too.
+
+| Excursion selection | Core excursions / group | Whole-trip subtotal / four | Each with 10% reserve |
+|---|---:|---:|---:|
+| Coach Golden Circle + South Coast, both pickup charges | C$1,411.44 | C$14,604.92 | C$4,016.35 |
+| Coach Golden Circle + private South Coast | C$2,051.22 | C$15,244.70 | C$4,192.29 |
+| Two Drive Reykjavik private days + C$100 admission/parking allowance | C$2,615.50 | C$15,808.98 | C$4,347.47 |
+
+Two private vehicles-days themselves total C$2,515.50 / ~C$628.88 each, **C$1,104.06 more for four** than the coach pair before the extra C$100 allowance. Skyline’s two published days total C$3,156.66 before admission/food extras. There are no coach pickup surcharges added to private days. Optional Snæfellsnes, Sky Lagoon and aurora are excluded until selected; choose the website’s excursion mode to replace coach rows rather than count both options.
+
+The website, JSON and cost CSV reflect this extended plan. The previously uploaded PDF and standalone HTML are explicitly labelled **earlier six-day editions / old dates**; updated browser Print/PDF can export the current website. Offline HTML upload remains deferred as requested.
+
+---
+
+# Archived earlier research — March 13–18 only
+
+The material below documents the earlier quotes and restaurant/menu research. Its flight/hotel prices and dated schedule are historical context, not confirmed bookings or prices for the extended March 13–20 plan.
+
 # Iceland, March 13–18, 2027: research audit
 
 Checked **October 16, 2026**. Assumption: four adults, two rooms with two guests each, Toronto Pearson departure, CAD budget. Nothing has been booked. Flight and hotel quotes were observed in the booking interfaces around 21:30 UTC; these are snapshots, not held inventory. No payment or personal traveller information was entered.

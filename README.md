@@ -1,3 +1,9 @@
+# Iceland March 13–20, 2027
+
+Current guide: eight calendar days, six hotel nights, four travellers. See RESEARCH.md for the October 18 extension, private-driver shortlist, three excursion-budget scenarios and source details. Flight and hotel prices require new dated quotes; older March 18 quotes are only planning anchors.
+
+The current website supports Coach / Mixed / Private excursion selection without double counting. The earlier uploaded PDF and standalone HTML are visibly labelled old-date editions. Standalone HTML upload is deferred at the user’s request. Use the website Print / PDF with edits for the current plan.
+
 # Iceland March 2027 field guide
 
 March 13–18, 2027 · four travellers · two rooms · Reykjavík base.

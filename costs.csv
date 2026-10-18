@@ -1,18 +1,21 @@
-Item,Unit CAD,Quantity,Total CAD,Evidence,Optional,Source ISK per unit,Source URL,Notes
-Icelandair Economy Light return: all four,5380.48,1,5380.48,live quote,False,,https://www.icelandair.com/en-ca/,
-"Þingholt: two queen rooms, four nights; no breakfast",2678,1,2678,live quote,False,,https://www.expedia.ca/Reykjavik-Hotels-Ingholt-By-Center-Hotels.h1601404.Hotel-Information?chkin=2027-03-14&chkout=2027-03-18&rm1=a2&rm2=a2,
-Flybus hotel/stop transfers: two one-way tariffs,124,4,496,estimate,False,10598,https://flybus.is/plan-your-trip/prices/,"2 x ISK 5,299, taxes included. Return/group discounts not assumed; exact March total unverified."
-Grand Golden Circle coach: published starting fare,128.58,4,514.32,published reference,False,10990,https://bustravel.is/iceland-tours/golden-circle-day-tour,
-South Coast coach: published starting fare,187.08,4,748.32,published reference,False,15990,https://bustravel.is/iceland-tours/south-iceland-tour,
-Downtown pickup for the two core coach tours,18.6,8,148.8,published reference,False,1590,https://bustravel.is/faq,
-CityWalk contribution allowance; no fixed ticket price,25,4,100,estimate,False,,https://citywalk.is/tour/free-walking-tour-reykjavik/,"Author-selected contribution, not a required tariff."
-"Food: five Iceland days, breakfast not included",100,20,2000,estimate,False,,,"All planned restaurant meals are within this allowance, not additional ledger charges. Alcohol excluded."
-Sky Lagoon Saman: admission starting price only,175.38,4,701.52,published reference,True,14990,https://bustravel.is/iceland-tours/sky-lagoon-geothermal-spa-pure-ticket,
-Sky Lagoon return transport allowance,50,4,200,estimate,True,,https://www.skylagoon.com/book-transfer/,Not a quoted shuttle or taxi fare. Select alongside admission.
-Snæfellsnes coach: published starting fare,204.63,4,818.52,published reference,True,17490,https://bustravel.is/iceland-tours/snaefellsnes-peninsula-kirkjufell-tour,
-Pickup if choosing optional Snæfellsnes coach,18.6,4,74.4,published reference,True,1590,https://bustravel.is/faq,
-Northern Lights coach: published starting fare,116.88,4,467.52,published reference,True,9990,https://bustravel.is/iceland-tours/northern-lights-tour,
-Pickup if choosing optional aurora coach,18.6,4,74.4,published reference,True,1590,https://bustravel.is/faq,
-Upgrade every flight to Economy Standard: bags + basic seats,460,1,460,live quote,True,,https://www.icelandair.com/en-ca/,"Summary offered +CAD 460 total for all four / both flights; total airfare CAD 5,840.48. Non-refundable; changes for fee."
-Refundable queen-room upgrade: whole group stay,460,1,460,live quote,True,,https://www.expedia.ca/Reykjavik-Hotels-Ingholt-By-Center-Hotels.h1601404.Hotel-Information?chkin=2027-03-14&chkout=2027-03-18&rm1=a2&rm2=a2,"Observed total CAD 3,138 vs 2,678; refundable before March 12 shown. Check exact local deadline and payment terms."
-"Insurance, data and other local transport reserve",100,4,400,estimate,False,,,
+Item,Unit CAD,Quantity,Total CAD,Evidence,Optional,Source ISK per unit,Notes
+Return flights March 13–20: allowance pending re-quote,5380.48,1,5380.48,estimate,False,,"C$5,380.48 was the October 16 quote for March 13–18. Retained only as a provisional budget anchor; March 20 return schedule and fare are unverified."
+"Þingholt: two rooms, six nights March 14–20",4017,1,4017,estimate,False,,"Linear estimate: prior four-night two-room quote C$2,678 x 1.5. No six-night availability, rate or refundable terms verified; includes proportionally scaled tax allowance."
+Flybus hotel/stop transfers: two one-way tariffs,124,4,496,estimate,False,10598,"2 x ISK 5,299, taxes included. Return/group discounts not assumed; exact March total unverified."
+Grand Golden Circle coach: published starting fare,128.58,4,514.32,published reference,False,10990,
+South Coast coach: published starting fare,187.08,4,748.32,published reference,False,15990,
+Downtown pickup for the two core coach tours,18.6,8,148.8,published reference,False,1590,
+CityWalk contribution allowance; no fixed ticket price,25,4,100,estimate,False,,"Author-selected contribution, not a required tariff."
+Food: seven Iceland calendar days; all meals allowance,100,28,2800,estimate,False,,"4 people x 7 Iceland calendar days; breakfast, lunches and dinners within this allowance. Reduce if breakfast is booked with hotel."
+Sky Lagoon Saman: admission starting price only,175.38,4,701.52,published reference,True,14990,
+Sky Lagoon return transport allowance,50,4,200,estimate,True,,Not a quoted shuttle or taxi fare. Select alongside admission.
+Snæfellsnes coach: published starting fare,204.63,4,818.52,published reference,True,17490,
+Pickup if choosing optional Snæfellsnes coach,18.6,4,74.4,published reference,True,1590,
+Northern Lights coach: published starting fare,116.88,4,467.52,published reference,True,9990,
+Pickup if choosing optional aurora coach,18.6,4,74.4,published reference,True,1590,
+Upgrade every flight to Economy Standard: bags + basic seats,460,1,460,estimate,True,,Prior March 18 return quote offered +C$460 for four to Standard; retained as an allowance only. March 20 upgrade price unverified.
+Refundable hotel upgrade: provisional six-night allowance,690,1,690,estimate,True,,Scaled from older four-night supplement C$460 x 1.5. New six-night cancellation deadline and price unknown.
+"Insurance, data and other local transport reserve",100,4,400,estimate,False,,
+"Private Golden Circle vehicle, up to four",1053,1,1053,published reference,True,90000,Replaces coach Golden Circle and its pickup charge in Private mode. 7–8 hours; March availability and final terms unverified.
+"Private South Coast vehicle, up to four",1462.5,1,1462.5,published reference,True,125000,"Replaces coach South Coast and its pickup charge in Mixed or Private mode. 9–10 hours. Product page says ISK125,000 while FAQ has a lower stale figure; budget uses product-page amount."
+Private Golden Circle admissions / parking contingency,100,1,100,estimate,True,,Included automatically only in Private mode. Not a quoted ticket price. Private vehicle tariff excludes entrance fees; remove unused allowance after final quote.
